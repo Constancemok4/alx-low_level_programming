@@ -2,7 +2,7 @@
 
 /**
  * _abs - computes the value of an integer
- * #n: the number to be checked
+ * @n: the number to be checked
  *
  * Return: returns an unsigneed int value
  */
