@@ -4,7 +4,7 @@
  * main - main block
  * Description: get a random
  * Return: 0
- **/
+ */
 
 int main(void)
 {
